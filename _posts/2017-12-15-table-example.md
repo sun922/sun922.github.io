@@ -3,7 +3,7 @@ layout: post
 title: Table example
 subtitle:
 categories: example
-tags: [table]
+tags: [example]
 ---
 
 ## Table example as below
