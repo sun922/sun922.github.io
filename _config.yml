@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sun's Scribble
+title: SunSunHan
 email: blue470nm0922@gmail.com
 author: sun922
 
@@ -49,7 +49,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "https://github.com/sun922/sun922.github.io/assets/71379149/896a765f-1537-4e52-9edf-d8f3d9b9f150" # the favicon for your site
+favicon: "https://github.com/sun922/sun922.github.io/assets/71379149/747245a8-748b-4591-a775-d4f4ef2e8326" # the favicon for your site
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
