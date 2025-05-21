@@ -17,9 +17,9 @@
 #   img: https://cdn.countryflags.com/thumbs/china/flag-400.png
 #   text: Chinese(Simple)
 
-# - lang: ja
-#   img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
-#   text: Japanese
+- lang: ja
+  img: https://cdn.countryflags.com/thumbs/japan/flag-400.png
+  text: Japanese
 
 # - lang: ru
 #   img: https://cdn.countryflags.com/thumbs/russia/flag-400.png
