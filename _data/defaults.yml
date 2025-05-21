@@ -1,4 +1,11 @@
+# home:
+#   heading: SunSunHan
+#   subheading: "Recording project history & portfolio."
+#   banner: https://github.com/sun922/sun922.github.io/raw/main/assets/images/banners/2505_banner.jpg
 home:
   heading: SunSunHan
-  subheading: "Recoring project history & portfolio."
+  subheading: "Recording project history & portfolio." 
   banner: https://github.com/sun922/sun922.github.io/raw/main/assets/images/banners/2505_banner.jpg
+  heading_style: "color: white; font-size: 4em; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);"
+  subheading_style: "color: #ffcc00; font-style: italic; font-size: 1.5em;"
+
